@@ -55,7 +55,7 @@ a:hover
 {
    width: 1144px;
    height: 541px;
-   background-color: #3C3C3C;
+   background-color: #00FF00;
    background-image: none;
    border: 0px #364C56 solid;
 }
@@ -180,7 +180,7 @@ a:hover
 {
    width: 445px;
    height: 454px;
-   background-color: #525284;
+   background-color: #00FF00;
    background-image: none;
    border: 0px #364C56 solid;
 }
@@ -1113,7 +1113,7 @@ a:hover
 {
    width: 1144px;
    height: 304px;
-   background-color: #3C3C3C;
+   background-color: #00FF00;
    background-image: none;
    border: 0px #364C56 solid;
 }
@@ -1932,6 +1932,8 @@ body
 {
    width: 520px;
    height: 679px;
+   background-color: #3C3C3C;
+   background-image: none;
 }
 #wb_Shape14
 {
